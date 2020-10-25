@@ -1,0 +1,8 @@
+env: <development, production>
+Alpaca:
+  APIKeyID: <Key ID>
+  APISecretKey: <Secret Key>
+Log:
+  Directory: <日志存储的目录>
+  FileName: <日志文件名称>
+  LogLevel: <error, warning, info, debug>
